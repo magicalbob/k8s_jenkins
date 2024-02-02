@@ -1,3 +1,4 @@
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -37,4 +38,3 @@ spec:
     - name: jnlp
       port: 50000
       targetPort: jnlp-port
-
