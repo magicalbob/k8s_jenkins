@@ -1,2 +1,4 @@
 jenkins.pv.yml
 kind-config.yaml
+jenkins.secret.yml
+jenkins-data
